@@ -1,0 +1,6 @@
+owner=403715181403701270
+prefix=*
+game=*play | Diamond MS
+stayinchannel=true
+songinstatus=false
+token=NTc5ODY1NjY0NzM1NTQzMzA5.XOIYHA.vXx2LM-rTATvXvXJQjDYhsnK03s
